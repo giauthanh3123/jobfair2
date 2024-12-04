@@ -6,7 +6,7 @@
 
 /* Define --------------------------------------------------------------------*/
 #define MAX_ROW 2
-#define MAX_COLUMN 30  // Điều chỉnh số cột để phù hợp với yêu cầu
+#define MAX_COLUMN 15
 #define MAX_ENTERPRISE 30
 
 /* Enum ----------------------------------------------------------------------*/
